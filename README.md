@@ -15,7 +15,7 @@ https://youtu.be/1h6KeD5LXYk
 ## 💻 Código no Repositório
 
 🔗 **Link do código completo:**  
-*(adicione aqui o link do seu GitHub após subir o projeto)*
+*([adicione aqui o link do seu GitHub após subir o projeto](https://github.com/Kaiomeireles/CareIOT/blob/main/main.py))*
 
 ---
 
