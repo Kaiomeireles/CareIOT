@@ -15,7 +15,7 @@ https://youtu.be/1h6KeD5LXYk
 ## 💻 Código no Repositório
 
 🔗 **Link do código completo:**  
-*([adicione aqui o link do seu GitHub após subir o projeto](https://github.com/Kaiomeireles/CareIOT/blob/main/main.py))*
+*([CODIGUIN](https://github.com/Kaiomeireles/CareIOT/blob/main/main.py))*
 
 ---
 
@@ -164,12 +164,15 @@ A aplicação:
 
 ## 📚 Integrantes do Grupo
 
-* Nome 1
-* Nome 2
-* Nome 3
-* Nome 4
+- Kaio Vinicius Meireles Alves - RM553282
 
+ - Lucas Alves de Souza -  RM553956
 
+ - Lucas de Freitas Pagung -  RM553242
+
+ - Guilherme Fernandes de Freitas - RM554323
+
+ - João Pedro Chizzolini de Freitas - RM553172
 ---
 
 ## ✔️ Status
